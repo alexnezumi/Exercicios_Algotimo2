@@ -35,5 +35,26 @@ public class Main {
         }
 
         */
+
+        //exercicio 3 - Crie um programa no qual o usuário digita uma letra e o programa verifica
+        //se a letra digitada é a letra “T”.
+
+        /*
+        Scanner grava = new Scanner(System.in);
+        String letra;
+        System.out.println("Insira uma letra");
+        letra = grava.nextLine();
+
+
+            if ( letra.equalsIgnoreCase("t")) {
+                System.out.println(letra);
+            }else {
+                System.out.println("Letra invalida");
+            }
+         */
+
+
+
+
     }
 }
